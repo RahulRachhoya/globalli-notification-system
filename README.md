@@ -4,7 +4,7 @@ A small, in-process notification system for a gaming platform. Game and social e
 
 ## Run it
 
-Requirements: Node.js 20 or newer.
+Requirements: Node.js 20.6 or newer (the test script uses `node --import`).
 
 ```bash
 npm install
